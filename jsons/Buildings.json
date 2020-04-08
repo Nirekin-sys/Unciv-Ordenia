@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Lazarus Camp",
+		"replaces": "Barracks",
+		"uniqueTo": "Ordenia"
+		"xpForNewUnits": 15,
+    "culture": 1,
+    "food": 2,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Bronze Working"
+	}
+]
