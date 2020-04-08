@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Ordenian Paladin",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 21,
+		"cost": 130,
+		"requiredTech": "Steel",
+		"promotions": ["Cover II","March"],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	}
+]
