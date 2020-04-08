@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Ordenian Paladin",
+		"replaces": "Longswordsman"
+		"uniqueTo": "Ordenia"
 		"unitType": "Melee",
 		"movement": 2,
 		"strength": 21,
