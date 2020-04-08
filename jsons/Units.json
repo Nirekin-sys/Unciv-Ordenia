@@ -6,7 +6,7 @@
 		"strength": 21,
 		"cost": 130,
 		"requiredTech": "Steel",
-		"promotions": ["Cover II","March"],
+		"promotions": ["Cover I","March"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
