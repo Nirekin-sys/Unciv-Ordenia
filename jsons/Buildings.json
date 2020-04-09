@@ -3,7 +3,7 @@
 		"name": "Lazarus Camp",
 		"replaces": "Barracks",
 		"uniqueTo": "Ordenia"
-		"cost": 65,
+		"cost": 75,
 		"xpForNewUnits": 15,
     "culture": 1,
     "food": 2,
